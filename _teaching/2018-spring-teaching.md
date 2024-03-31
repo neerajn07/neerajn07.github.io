@@ -1,8 +1,8 @@
 ---
 title: "3D Compact Inversion of Gravity data"
-collection: Research
+collection: Teaching
 type: "Project"
-permalink: /research/2018-spring-teaching-1
+permalink: /teaching/2018-spring-teaching-1
 venue: "Queen's University, Canada"
 date: 2022-01-01 - 2023-01-01
 location: "Kingston, Canada"

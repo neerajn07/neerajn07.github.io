@@ -1,8 +1,8 @@
 ---
 title: "Spectral-infinite-element simulation of Gravity and Magnetic data"
-collection: Research
+collection: Teaching
 type: "Ph.D. Project"
-permalink: /research/2017-spring-teaching-1
+permalink: /teaching/2017-spring-teaching-1
 venue: "Queen's University, Canada"
 date: 2023-01-01 - 2024-01-01
 location: "Kingston, Canada"
