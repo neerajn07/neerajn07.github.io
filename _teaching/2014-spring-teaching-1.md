@@ -1,6 +1,6 @@
 ---
 title: "Electrical Resistivity Tomography (ERT) modeling" 
-collection: Teaching
+collection: teaching
 type: "Master thesis (M.Tech)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Indian Institute of Technology Kanpur, India"

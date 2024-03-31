@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Kingston East Landfill Site using ERT, EM-31, and GPR
 methods"
-collection: Teaching
+collection: teaching
 type: "Project"
 permalink: /teaching/2016-spring-teaching-1
 venue: "Queen's University, Canada"

@@ -1,6 +1,6 @@
 ---
 title: "3D Compact Inversion of Gravity data"
-collection: Teaching
+collection: teaching
 type: "Project"
 permalink: /teaching/2018-spring-teaching-1
 venue: "Queen's University, Canada"

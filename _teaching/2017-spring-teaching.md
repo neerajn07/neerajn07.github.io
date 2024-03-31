@@ -1,6 +1,6 @@
 ---
 title: "Spectral-infinite-element simulation of Gravity and Magnetic data"
-collection: Teaching
+collection: teaching
 type: "Ph.D. Project"
 permalink: /teaching/2017-spring-teaching-1
 venue: "Queen's University, Canada"
