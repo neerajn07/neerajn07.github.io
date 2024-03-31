@@ -1,8 +1,8 @@
 ---
 title: "Analysis of seismo-Ionospheric coupling using the DEMETER satellite"
-collection: Research
+collection: teaching
 type: "Project"
-permalink: /research/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching
 venue: "Queen's University, Canada"
 date: 2021-01-01 - 2022-01-01
 location: "Kingston, Canada"
