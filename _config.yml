@@ -184,31 +184,6 @@ collections:
 
 # Defaults
 defaults:
-  - scope:
-      path: ""
-      type: "teaching"
-    values:
-      layout: "teaching"
-  - scope:
-      path: ""
-      type: "publications"
-    values:
-      layout: "publications"
-  - scope:
-      path: ""
-      type: "portfolio"
-    values:
-      layout: "portfolio"
-  - scope:
-      path: ""
-      type: "talks"
-    values:
-      layout: "talks"
-
-
-
-# Defaults
-defaults:
   # _posts
   - scope:
       path: ""
