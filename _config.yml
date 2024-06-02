@@ -171,16 +171,40 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /talks/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "teaching"
+    values:
+      layout: "teaching"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publications"
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "portfolio"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talks"
+
 
 
 # Defaults
