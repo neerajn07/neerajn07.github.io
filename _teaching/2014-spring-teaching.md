@@ -1,5 +1,5 @@
 ---
-title: "1. Electrical Resistivity Tomography (ERT) modeling" 
+title: "Electrical Resistivity Tomography (ERT) modeling" 
 collection: teaching
 type: "Master thesis (M.Tech)"
 permalink: /teaching/2014-spring-teaching
