@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Forward and Inverse modeling concept for laymen'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
