@@ -6,7 +6,7 @@ permalink: /publications/2020-02-01-matlab-ert-inversion/
 excerpt: 'This paper presents a MATLAB-based 2D resistivity inversion algorithm utilizing the damped least squares method, validated against the RES2DINV software, and applied to time-lapse ERT data for groundwater recharge studies.'
 date: 2020-02-01
 venue: '13th Biennial International Conference & Exposition of the Society of Petroleum Geophysicists (SPG), Kochi, India'
-paperurl: 'https://www.researchgate.net/publication/348548255_A_MATLAB_based_program_for_the_Inversion_of_Time_Lapse_ERT_Data#fullTextFileContent'
+paperurl: '[Read the full paper](https://www.researchgate.net/publication/348548255_A_MATLAB_based_program_for_the_Inversion_of_Time_Lapse_ERT_Data#fullTextFileContent)'
 citation: 'Nainwal, N., Dekate, A., Mishra, U., Mandal, A., & Kumar, P. (2020). "A MATLAB Based Program for the Inversion of Time-Lapse ERT Data." Presented at the 13th Biennial International Conference & Exposition of the Society of Petroleum Geophysicists (SPG), Kochi, India.'
 ---
 
