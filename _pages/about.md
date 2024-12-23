@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Specializing in mineral targeting modeling, I am a Geophysicist and Ph.D. candidate at Queen’s University, under the guidance of [Dr. Alexander Braun](http://sea-level.org) at the Department of Geological Sciences and Engineering at Queen’s University. My studies focus on UAV borne Magnetic and Radiometric data, building on a foundation in Geological Technology and Geosciences Engineering.
+I am a Geophysicist and Ph.D. candidate at Queen’s University, under the guidance of [Dr. Alexander Braun](http://sea-level.org) at the Department of Geological Sciences and Engineering at Queen’s University. My studies focus on UAV borne Magnetic and Radiometric data, building on a foundation in Geological Technology and Geosciences Engineering.
 
 Throughout my career, I have gained substantial hands-on experience in various geophysical data acquisition and modeling techniques, in particular I have worked on:
  * Potential field methods: Gravity, Magnetic and ERT
