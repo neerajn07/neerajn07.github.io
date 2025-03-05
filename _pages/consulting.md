@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: single
 title: "Consulting Services"
 permalink: /consulting/
+author_profile: true
+toc: true
 ---
+
 
 # Consulting Services
 
@@ -14,8 +17,8 @@ I provide comprehensive analysis of geophysical data to help you understand subs
 ## Service 2: Geological Consulting
 Offering expert advice on geological assessments, mineral exploration, and environmental geology.
 
-## Service 3: Geoscience Research
-Conducting cutting-edge research in geoscience to support academic and industrial projects.
+<!-- ## Service 3: Geoscience Research
+Conducting cutting-edge research in geoscience to support academic and industrial projects. -->
 
 ---
 
