@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Consulting Services"
 permalink: /consulting/
 author_profile: true
