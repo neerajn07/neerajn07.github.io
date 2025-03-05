@@ -18,4 +18,4 @@ I have extensive experience in field data acquisition and data processing, with 
 
 I completed my master's degree in May 2020 at the [Department of Earth Sciences](https://www.iitk.ac.in/es/) under the supervision of [Dr. Animesh Mandal](https://sites.google.com/view/animesh-mandal/home), Where I study groundwater modeling using Electrical resistivity tomography.
 
-Outside academia, I am an avid cyclist and runner, often exploring the scenic routes around Lake Ontario. I also enjoy teaching.
+<!-- Outside academia, I am an avid cyclist and runner, often exploring the scenic routes around Lake Ontario. I also enjoy teaching. -->
