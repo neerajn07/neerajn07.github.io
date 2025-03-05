@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom Fix for Consulting Page */
+.page-content {
+    max-width: 90%;
+    margin: auto;
+    word-wrap: break-word;
+}
