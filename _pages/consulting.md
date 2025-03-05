@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-# Consulting Services
+<!-- # Consulting Services -->
 
 Welcome to my consulting services page. Here are the services I offer:
 
